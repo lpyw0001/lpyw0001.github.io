@@ -1,0 +1,12 @@
+*** Open this: https://lpyw0001.github.io/index.html ***
+
+The website has been published (live) and can be viewed by going to: https://lpyw0001.github.io/index.html
+
+If there are any issues accessing the site please email: lpyw0001@student.monash.edu
+
+If desired, the repository (where the site is saved) can be found at: https://github.com/lpyw0001/lpyw0001.github.io
+This will timestamp any changes made to the site.
+
+If addition, if desired the site can be opened locally by:
+ - Extracting the files from the zipped folder (uncompress)
+ - Open the file titled "index.html" with your browswer of choice (e.g. Chrome, Firefox...)
